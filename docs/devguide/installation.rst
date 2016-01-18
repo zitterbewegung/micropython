@@ -43,7 +43,8 @@ Windows
 
 OS X
 ~~~~
-
+You can install yotta from the app . See https://github.com/ARMmbed/yotta_osx_installer/releases/ and download the latest release.
+Then when the yotta shell launches do '''yt up''' to get all of the depenencies.
 
 .. _microbit-linux:
 
