@@ -44,7 +44,15 @@ Windows
 OS X
 ~~~~
 You can install yotta from the app . See https://github.com/ARMmbed/yotta_osx_installer/releases/ and download the latest release.
-Then when the yotta shell launches do '''yt up''' to get all of the depenencies.
+
+When you are at the yotta terminal execute the following commands. 
+::
+ yt target bbc-microbit-classic-gcc-nosd
+ yt up
+ yt make
+::
+Now follow the instructions in README.md
+
 
 .. _microbit-linux:
 
